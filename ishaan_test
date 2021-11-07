@@ -1,0 +1,11 @@
+import time
+
+print("hii")
+
+
+x=5
+print(x)
+
+y=input("Enter y = : ")
+print(y)
+time.sleep(500)
